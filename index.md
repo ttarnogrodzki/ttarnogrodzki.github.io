@@ -1,1 +1,4 @@
-# Welcome
+---
+layout: default
+title: Home
+---
